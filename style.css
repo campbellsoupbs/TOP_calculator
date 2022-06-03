@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(240, 154, 130);
+    background-color: rgb(130, 194, 240);
 }
 
 .title {
@@ -46,4 +46,17 @@ button {
     margin: 2px;
     border-radius: 8px;
     border-style: none;
+    font-size: 25px;
+}
+
+.bad {
+    background-color: rgb(241, 94, 94);
+}
+
+.func {
+    background-color: rgb(255, 217, 0);
+}
+
+.num {
+    background-color: rgb(162, 213, 162);
 }
