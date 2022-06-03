@@ -33,7 +33,31 @@ body {
     border-width: 3px;
     border-color: rgb(31, 30, 30);
     margin-bottom: 10px;
+
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-end;
 }
+
+.output {
+    background-color: rgb(201, 201, 201);
+    height: 60px;
+    width: 380px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    display:flex;
+    justify-content: end;
+    align-items: center;
+    font-size: 35px;
+   
+    /* border-style: solid;
+    border-color: black;
+    border-width: 3px; */
+
+}
+
+
+/* Buttons */
 
 .numpad {
     display: flex;
